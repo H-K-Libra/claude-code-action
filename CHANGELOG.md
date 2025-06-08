@@ -1,6 +1,6 @@
 # Changelog
 
-## Fork Changes (Akira-Papa/claude-code-action@beta)
+## Fork Changes (H-K-Libra/claude-code-action@beta)
 
 This is a fork of the official Claude Code Action that adds OAuth authentication support for Claude Max subscribers.
 
@@ -11,7 +11,7 @@ This is a fork of the official Claude Code Action that adds OAuth authentication
   - New input: `claude_access_token` - OAuth access token from Claude Max subscription
   - New input: `claude_refresh_token` - OAuth refresh token from Claude Max subscription
   - New input: `claude_expires_at` - Token expiration timestamp
-- **Updated Base Action**: Uses `Akira-Papa/claude-code-base-action@beta` which includes OAuth credential handling
+- **Updated Base Action**: Uses `H-K-Libra/claude-code-base-action@beta` which includes OAuth credential handling
 
 ### Changed
 
